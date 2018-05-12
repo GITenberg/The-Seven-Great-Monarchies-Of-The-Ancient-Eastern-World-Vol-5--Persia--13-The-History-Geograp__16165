@@ -1,0 +1,33 @@
+_repo: The-Seven-Great-Monarchies-Of-The-Ancient-Eastern-World-Vol-5--Persia--13-The-History-Geograp__16165
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rawlinson, George
+    birthdate: 1812
+    deathdate: 1902
+    gutenberg_agent_id: '872'
+    url: http://www.gutenberg.org/2009/agents/872
+    wikipedia: http://en.wikipedia.org/wiki/George_Rawlinson
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Babylonia -- History'
+- !lcsh 'Iran -- History'
+- !lcsh 'Assyria -- History'
+- !lcsh 'History, Ancient'
+- !lcsh 'Parthia -- History'
+title: "The Seven Great Monarchies Of The Ancient Eastern World, Vol 5: Persia\r\n\
+  The History, Geography, And Antiquities Of Chaldaea, Assyria, Babylon, Media, Persia,\
+  \ Parthia, And Sassanian or New Persian Empire; With Maps and Illustrations."
+url: http://www.gutenberg.org/ebooks/16165
